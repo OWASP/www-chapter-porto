@@ -1,4 +1,3 @@
 ### Leaders
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
+* [Paulo Batalhao](mailto:batalhao@gmail.com)
+* [Nelson Pereira](mailto:nelsonrpp94@gmail.com)
