@@ -1,3 +1,3 @@
 ### Leaders
-* [Paulo Batalhao](mailto:batalhao@gmail.com)
-* [Nelson Pereira](mailto:nelsonrpp94@gmail.com)
+* [Paulo Batalhao](mailto:paulo.batalhao@owasp.org)
+* [Nelson Pereira](mailto:nelson.pereira@owasp.org)
