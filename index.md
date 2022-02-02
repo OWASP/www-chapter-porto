@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP Porto
-tags: chapter-porto chapter-portugal portugal
+tags: chapter-porto owasp-porto chapter-portugal portugal
 region: Europe
 meetup-group: OWASP-Porto
 country: Portugal
