@@ -4,7 +4,7 @@ layout: col-sidebar
 title: OWASP Porto
 tags: chapter-porto chapter-portugal portugal
 region: Europe
-meetup-group: OWASP-Porto-Chapter
+meetup-group: OWASP-Porto
 country: Portugal
 postal-code: 3880
 
