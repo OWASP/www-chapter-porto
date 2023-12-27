@@ -1,1 +1,1 @@
-This is the OWASP Lisboa chapter pages.
+This is the OWASP Porto chapter pages.

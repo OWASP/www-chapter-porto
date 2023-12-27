@@ -1,21 +1,21 @@
 ---
 
 layout: col-sidebar
-title: OWASP Lisboa
-tags: chapter-lisboa owasp-lisboa owasp-lisbon chapter-portugal lisboa lisbon portugal 
+title: OWASP Porto
+tags: chapter-porto owasp-oporto owasp-opo chapter-portugal porto oporto portugal 
 level: 0
 region: Europe
-meetup-group: owasp-lisboa-chapter
+meetup-group: owasp-porto-chapter
 country: Portugal
-postal-code: 1649
+postal-code: 4150
 
 ---
 <!-- rebuild 1 -->
 
-![Lisboa Chapter Logo, image By Deensel - Lisbon, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=94222909](assets/images/owasp-lisboa-banner-small.png)
+![Porto Chapter Logo, image By Sean Pavone - Porto https://www.istockphoto.com/br/foto/porto-portugal-na-ponte-dom-luis-gm533960357-56505746](assets/images/owasp-porto-banner-small.png)
 
-## Welcome to the OWASP Lisboa chapter
-Welcome to the new OWASP Lisboa chapter. This new portuguese local chapter, builds on the previous experience of the previous existing portuguese OWASP chapter, that was active between 2008 and 2018. 
+## Welcome to the OWASP Porto chapter
+Welcome to the new OWASP Porto chapter. 
 
 The objective of this chapter is to promote application security in Portugal, through the engagement of the local community, meetings and events organization, and project participation.
 
@@ -27,15 +27,14 @@ Use the [Social Links](#social-links) on the right to follow us to stay up to da
 
 ## Next event:
 
-Feb 8th, 2024
-
+To be scheduled
 
 ## Participation
 
 ### Call for Talks
 
 Are you interested in speaking at our meetups? 
-Beginner or advanced, attack or defense, technical or not, submit your talk [here](https://lnkd.in/ecCrhWUx).
+Beginner or advanced, attack or defense, technical or not, submit your talk once we make a link available.
 
 ### Sponsorship
 
@@ -48,7 +47,5 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects/),
 
 ## Last event:
 
-Nov 15th 2023. Check it in the Past Events tab.
+None yet.
 
-
-Check the [meetups page](https://owasp.org/www-chapter-lisboa/#div-meetups) for more information

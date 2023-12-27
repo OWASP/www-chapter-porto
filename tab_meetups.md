@@ -4,14 +4,14 @@ displaytext: Chapter Meetups
 layout: null
 tab: true
 order: 1
-tags: lisboa
+tags: porto
 ---
-# OWASP Lisboa Chapter Meetup 2023
+# OWASP Porto Chapter Meetup 2024
 
 ## Next event:
 
-Feb 8th, 2024.
+To be announced soon.
 
 ## Last event:
 
-Nov 15th 2023. Check it in the Past Events tab.
+None yet.

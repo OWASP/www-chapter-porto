@@ -1,10 +1,7 @@
-### Lisboa Information
-Supporting OWASP mission from Portugal since 2008.
+### Porto Information
+Supporting OWASP mission from Portugal.
 
 ### Social Links
-* [Meetup](https://www.meetup.com/owasp-lisboa-chapter/)
-* [Twitter](https://twitter.com/owasplisboa)
-* [Linkedin](https://www.linkedin.com/company/owasp-lisboa/)
-* Email lisboa-chapter at owasp.org
+We'll post the links here soon.
 
-
+* Email porto-chapter at owasp.org
