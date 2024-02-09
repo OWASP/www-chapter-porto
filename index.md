@@ -17,7 +17,7 @@ postal-code: 4150
 ## Welcome to the OWASP Porto chapter
 Welcome to the new OWASP Porto chapter. 
 
-The objective of this chapter is to promote application security in Portugal, through the engagement of the local community, meetings and events organization, and project participation.
+The objective of this chapter is to promote application security in Porto, through the engagement of the local community, meetings and events organization, and project participation.
 
 [Join us](https://owasp.org/membership)!
 
@@ -27,14 +27,14 @@ Use the [Social Links](#social-links) on the right to follow us to stay up to da
 
 ## Next event:
 
-To be scheduled
+March 6th, 2024. RSVP [here](https://www.meetup.com/owasp-porto/events/298479956/?utm_medium=referral&utm_campaign=announceModal_savedevents_share_modal&utm_source=link).
 
 ## Participation
 
 ### Call for Talks
 
 Are you interested in speaking at our meetups? 
-Beginner or advanced, attack or defense, technical or not, submit your talk once we make a link available.
+Beginner or advanced, attack or defense, technical or not, submit your talk [here](https://forms.gle/4BagP8fuBgBvdy1Y9).
 
 ### Sponsorship
 
