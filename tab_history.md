@@ -9,5 +9,5 @@ tags: porto
 
 # History
 
-We'll use this space to talk a bit about OWASP Porto's history soon.
+We are excited to start the Chapter's activities soon, and hope to engage with the local appsec community in Porto.
 
