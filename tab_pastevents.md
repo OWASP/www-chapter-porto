@@ -51,4 +51,4 @@ An opinionated individual with an interest in cryptography and its intersection 
 
 #### Pictures from the meetup
 
-![#1 Kickoff](assets/images/meetup_01/img1.jpg?raw=true)
+![#1 Kickoff](assets/images/meetup_01/img1.jpeg)
