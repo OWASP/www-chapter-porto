@@ -10,27 +10,25 @@ tags: porto
 
 ## #1 Kickoff
 
-OWASP Porto Chapter Meetup **#1 Kickoff**
-
-### Location:
+#### Location:
 
 Boost IT. (Rua de Vilar 235, 3o Esquerdo)[https://www.google.com/maps/search/?api=1&query=41.151047%2C%20-8.628946].
 
-### Agenda:
+#### Agenda:
 18:00 - Intro and Welcome by the OWASP Porto chapter leadership
 18:15 - The Security of Large Language Models by Nuno Pereira
 19:10 - SBOM, SBOM, you're an SBOM by Diogo Sousa
 20:00 - Drinks & Dinner by Boost IT
 
-### The Security of Large Language Models
+#### The Security of Large Language Models
 Large Language Models (LLMs) received a lot of attention recently and it is possible to find them integrated into various applications, from well-known chat applications to content creation, search, translation and much more. We will overview LLMs and delve into some details to better understand known attacks.
 
-#### Nuno Pereira
+##### Nuno Pereira
 Nuno Pereira taught cybersecurity-related topics for more than 15 years. 
 
 [LinkedIn](https://www.linkedin.com/in/napereira/)
 
-### SBOM, SBOM, you're an SBOM
+#### SBOM, SBOM, you're an SBOM
 Software Bill of Materials (SBOM) is a concept that recently has been making waves in SDLC spaces but it isn't entirely new. Most mature languages have a (sometimes) mature package management system, either built-in (e.g., Rust's cargo) or de facto (e.g., Maven) that allows developers to define dependencies, resolve conflicts and do composition analysis.
 
 SBOMs, however, allow you to take this one step further, making it language-agnostic and allowing components from different ecosystems to use a common language for comparisons and analysis. However, we don't get those features out of the box. For example, consider common libraries in different package repositories - are all OpenSSL packages created equally and equivalent?
@@ -46,11 +44,11 @@ In the spirit of the topic, here is a Talk Bill of Topics:
 
 This talk targets a beginner to intermediate audience and will provide an overview of (S)BOMs, their ongoing challenges, and what they can bring to the table in terms of security.
 
-#### Diogo Sousa
+##### Diogo Sousa
 An opinionated individual with an interest in cryptography and its intersection with secure software development.
 
 [LinkedIn](https://www.linkedin.com/in/0xdsousa/)
 
-### Pictures from the meetup
+#### Pictures from the meetup
 
 ![#1 Kickoff](assets/images/meetup_01/img1.jpg?raw=true)
