@@ -10,7 +10,7 @@ tags: porto
 
 ## Next event:
 
-May 29th, 2024. **To be confirmed**
+May 29th, 2024. **To be confirmed**.
 
 ## Last event:
 
