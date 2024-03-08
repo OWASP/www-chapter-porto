@@ -9,5 +9,4 @@ tags: porto
 
 # History
 
-We are excited to start the Chapter's activities soon, and hope to engage with the local appsec community in Porto.
-
+The OWASP Porto Chapter started its activities in 2024. Have a look at the meetups tab for a list of our events.
