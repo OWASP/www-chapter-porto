@@ -14,12 +14,13 @@ tags: porto
  **18:00** - Intro and Welcome by the OWASP Porto chapter leadership \
  **18:15** - The Security of Large Language Models by Nuno Pereira \
  **19:10** - SBOM, SBOM, you're an SBOM by Diogo Sousa \
- **20:00** - Drinks & Dinner by Boost IT \
+ **20:00** - Drinks & Dinner by Boost IT 
 
 ### Talks:
 
 > ### The Security of Large Language Models
-> Large Language Models (LLMs) received a lot of attention recently and it is possible to find them integrated into various applications, from well-known chat applications to content creation, search, translation and much more. We will overview LLMs and delve into some details to better understand known attacks. \
+> Large Language Models (LLMs) received a lot of attention recently and it is possible to find them integrated into various applications, from well-known chat applications to content creation, search, translation and much more. We will overview LLMs and delve into some details to better understand known attacks.
+
 > #### Nuno Pereira
 > Nuno Pereira taught cybersecurity-related topics for more than 15 years. 
 > [LinkedIn](https://www.linkedin.com/in/napereira/)
@@ -34,7 +35,8 @@ tags: porto
 > - Are we revealing too much of the "secret sauce"?
 > - Does having an SBOM instantly make a piece of software more secure?
 > - If we take a piece of software and replace every entry in its BOM with fully equivalent packages, one by one, is it still the same software in the end?
-> This talk targets a beginner to intermediate audience and will provide an overview of (S)BOMs, their ongoing challenges, and what they can bring to the table in terms of security.
+> This talk targets a beginner to intermediate audience and will provide an overview of (S)BOMs, their ongoing challenges, and what they can bring to the table in terms of security. 
+
 > #### Diogo Sousa
 > An opinionated individual with an interest in cryptography and its intersection with secure software development.
 > [LinkedIn](https://www.linkedin.com/in/0xdsousa/)
