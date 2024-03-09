@@ -41,7 +41,7 @@ tags: porto
 > An opinionated individual with an interest in cryptography and its intersection with secure software development.
 > [LinkedIn](https://www.linkedin.com/in/0xdsousa/)
 
-### Pictures from the meetup
+### Photos from the meetup
 
 ![#1 Kickoff](assets/images/meetup_01/img1.jpeg)
 ![#1 Kickoff](assets/images/meetup_01/img2.jpg)
