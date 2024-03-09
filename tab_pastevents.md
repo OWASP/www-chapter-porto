@@ -8,7 +8,7 @@ tags: porto
 ---
 
 
-## #1 Kickoff @Boost IT
+## #1 Kickoff: March 6th, 2024 @Boost IT
 
 #### Agenda:
  **18:00** - Intro and Welcome by the OWASP Porto chapter leadership\
