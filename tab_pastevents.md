@@ -15,6 +15,7 @@ tags: porto
 
 ### Videos
 [The Security of Large Language Models by Nuno Pereira](https://youtu.be/hZcDXGJviFQ)
+
 [SBOM, SBOM, you’re an SBOM by Diogo Sousa](https://youtu.be/ApmWkGwd2Mw)
 
 ### Agenda:
