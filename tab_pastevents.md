@@ -10,11 +10,21 @@ tags: porto
 
 ## #1 Kickoff: March 6th, 2024 @Boost IT
 
+### Location
+[BoostIT](https://maps.app.goo.gl/6PekaYYszr7dUgyq6)
+
+### Videos
+[The Security of Large Language Models by Nuno Pereira](https://youtu.be/hZcDXGJviFQ)
+[SBOM, SBOM, you’re an SBOM by Diogo Sousa](https://youtu.be/ApmWkGwd2Mw)
+
 ### Agenda:
  **18:00** - Intro and Welcome by the OWASP Porto chapter leadership \
  **18:15** - The Security of Large Language Models by Nuno Pereira \
  **19:10** - SBOM, SBOM, you're an SBOM by Diogo Sousa \
  **20:00** - Drinks & Dinner by Boost IT 
+
+### Videos
+
 
 ### Talks:
 
