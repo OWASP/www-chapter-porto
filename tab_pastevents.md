@@ -24,9 +24,6 @@ tags: porto
  **19:10** - SBOM, SBOM, you're an SBOM by Diogo Sousa \
  **20:00** - Drinks & Dinner by Boost IT 
 
-### Videos
-
-
 ### Talks:
 
 > ### The Security of Large Language Models
@@ -57,3 +54,43 @@ tags: porto
 ![#1 Kickoff](assets/images/meetup_01/img1.jpeg)
 ![#1 Kickoff](assets/images/meetup_01/img2.jpg)
 ![#1 Kickoff](assets/images/meetup_01/img3.jpg)
+
+-----------------------------------------------------------
+
+## #2 Kickoff: May 29th, 2024 @FinTrU
+
+### Location
+[FinTrU](https://maps.app.goo.gl/uRqEQ6ZuZdSL4YHbA)
+
+### Agenda:
+ **18:00** - Intro and Welcome by the OWASP Porto chapter leadership \
+ **18:15** - From Theory to Practice: Navigating the Challenges of Vulnerability Research by Raphael Silva \
+ **19:00** - Harnessing Reachability Analysis to Discern Real Threats in Software Dependencies \
+ **20:00** - Drinks & Dinner by FinTrU 
+
+### Talks:
+
+> ### From Theory to Practice: Navigating the Challenges of Vulnerability Research
+
+Abstract:
+>Transitioning from theoretical knowledge to the practical aspect in web security often presents some extra challenges. Real-world scenarios introduce complexities such as bad character filters and Web Application Firewalls (WAFs), demanding the researcher to investigate some way to bypass these restrictions. Here are some of our learnings: 1) Drawing from collaborative efforts and senior industry research becomes pivotal. 2) Embracing failure as a learning experience is fundamental. 3) Learn a bit about how ethical security research faces legal hurdles in countries like Portugal, hindering progress and discouraging potential researchers. Navigating this bridge from theory to practice in web security requires technical prowess and resilience, and I hope to share some of my learnings from this journey with you in this talk.
+
+> ### Raphael Silva
+> I’m Raphael Silva, an AppSec Analyst at Checkmarx. I've participated in public speaking and public-facing activities, notably a Code Review workshop at AppSec Village at DEFCON30 and talks about AI and AppSec at my former university. I’ve found multiple vulnerabilities in open-source products over the years. I’m always looking for ways to expand my knowledge in the field, be that sharpening my technical skills by reading innovative research, practicing in CTFs, engaging in some bug bounty hunting, and taking certifications. I'm eWPTXv2 certified and currently enrolled in OSCP.
+> [LinkedIn]( https://www.linkedin.com/in/raphaelcssilva/)
+
+>### Harnessing Reachability Analysis to Discern Real Threats in Software Dependencies
+> In this talk, we will dive into the shortcomings of traditional dependency analysis methods, which usually focus on building manifests and metadata, to spot security or performance vulnerabilities in Java projects. While tools like Maven Dependency Checker and Gradle's dependency-analysis plugin are invaluable for managing dependencies, they often fall short when we need quick and precise answers, forcing developers to lean on time-consuming tests and manual code reviews. We believe that a thorough look at how dependencies are actually used in the code—with the help of static and reachability analyses—can be a more effective way to pinpoint real threats in Java dependencies.
+> Our goal is to provide attendees with practical strategies for using static and reachability analyses, promoting a more detailed method for managing dependencies and finding vulnerabilities in software applications.
+
+> ### Joseph Hejderup
+> Part-time developer, part-time PhD student, and full-time enthusiast in developing and researching techniques that make package management systems more intelligent and resilient against supply chain problems! Joseph Hejderup (Researcher/Software Engineer at Endor Labs & PhD student at Delft University of Technology) is applying program analysis techniques to understand better how we use third-party components and what risks third-party components entail from a security and maintenance perspective.
+> [LinkedIn](https://www.linkedin.com/in/josephhejderup/)
+
+### Photos from the meetup
+
+![#2 Tango](assets/images/meetup_02/img_01.png)
+![#2 Tango](assets/images/meetup_02/img_02.png)
+![#2 Tango](assets/images/meetup_02/img_03.png)
+![#2 Tango](assets/images/meetup_02/img_04.png)
+![#2 Tango](assets/images/meetup_02/img_05.png)
