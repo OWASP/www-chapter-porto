@@ -27,8 +27,7 @@ Use the [Social Links](#social-links) on the right to follow us to stay up to da
 
 ## Next event:
 
-September 18th, 2024. See it on [meetup.com](https://www.meetup.com/owasp-porto/events/303006906/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link).
-
+~September 18th, 2024. See it on [meetup.com](https://www.meetup.com/owasp-porto/events/303006906/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link).~ **Canceled**: given the current state of Emergency. New date do be announced soon!
 
 ## Participation
 
