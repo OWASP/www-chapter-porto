@@ -31,7 +31,7 @@ TBD
 >**Bio** \
 >I work as an Appsec Analyst at Checkmarx. 'Vulnerability' is part of my daily vocabulary, and I'm never sick of it. I dub myself a 'self-certified idiot' because I love learning and hatching ideas. So much that I've made brainstorming a hobby and kickstarted a team initiative to keep us on the pulse of InfoSec. I'm also currently studying to pass the CEH certification. Contributing to the AppSec Village at RSAC in San Francisco last year? Check. Beyond the keyboard, you catch me reading, writing, or practicing martial arts. As in cybersecurity, I seek constant learning.
 >
->Linkedin: https://www.linkedin.com/in/marioleitao-teixeira/
+>Linkedin: [https://www.linkedin.com/in/marioleitao-teixeira/](https://www.linkedin.com/in/marioleitao-teixeira/)
 
 > #### Searching data on remote encrypted storages with privacy requirements
 > **Speaker: António Pinto** \
@@ -42,7 +42,7 @@ TBD
 > **Bio**\
 > António Pinto has a PhD from Porto University (2010). Currently, he is a Professor (Professor Coordenador com Agregação) at Escola Superior de Tecnologia e Gestão (ESTG) of the Polytechnic Institute of Porto. He gives courses on computer networks, data privacy, ethical hacking and digital forensics. He is also a researcher of CRACS at INESC TEC research institute. His current research interests include computer and network security, digital forensics, and data privacy. António Pinto has published 50+ papers and participated in 10+ research projects, including the European projects. He also holds both ISO 27001 Lead Implementer and ISO 27001 Lead Auditor certifications.
 >
-> Linkedin: https://www.linkedin.com/in/pintoantonio
+> Linkedin: [https://www.linkedin.com/in/pintoantonio](https://www.linkedin.com/in/pintoantonio)
 
 ## Previous events:
 
