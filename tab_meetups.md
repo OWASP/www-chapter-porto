@@ -17,9 +17,9 @@ TBD
 
 ### Agenda:
 
-**18:00** - Intro and Welcome by the OWASP Porto chapter leadership
-**18:15** - CVSS v4 – A Better Version of an Imperfect Solution by Mário Leitão-Teixeira
-**19:00** - Searching data on remote encrypted storages with privacy requirements by António Pinto
+**18:00** - Intro and Welcome by the OWASP Porto chapter leadership \
+**18:15** - CVSS v4 – A Better Version of an Imperfect Solution by Mário Leitão-Teixeira \
+**19:00** - Searching data on remote encrypted storages with privacy requirements by António Pinto \
 **20:00** - Drinks & Dinner.
 
 ### Talks:
