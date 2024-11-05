@@ -13,7 +13,7 @@ tags: porto
 November 6th, 2024. See it on [meetup.com](https://www.meetup.com/owasp-porto/events/304158994/?utm_medium=referral&utm_campaign=announceModal_savedevents_share_modal&utm_source=link).
 
 ### Location
-TBD
+UPTEC Baixa (Downtown Porto), Praça do Coronel Pacheco 2, 4050-453 Porto.
 
 ### Agenda:
 
