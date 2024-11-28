@@ -27,7 +27,7 @@ Use the [Social Links](#social-links) on the right to follow us to stay up to da
 
 ## Next event:
 
-Target date: Jan 15 2025. We are working towards cofirming this date soon. Stay tuned.
+Target date: **Jan 15 2025**. We are working to confirm this date soon. Stay tuned.
 
 ## Participation
 
