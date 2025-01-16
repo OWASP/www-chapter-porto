@@ -129,10 +129,10 @@ UPTEC Baixa (Downtown Porto), Praça do Coronel Pacheco 2, 4050-453 Porto.
 ## #4 A New Hope: January 15th, 2025 @ Celfocus Porto.
 
 ### Agenda
-**18:00** - Intro and Welcome by the OWASP Porto chapter leadership
-**18:15** - Lightning Recap: Highlights from BSides Lisbon 2024 by Celfocus Appsec Team, hosted by Pedro Tarrinho
-**19:00** - Do not Live in the Shadows (APIs) by Teresa Pereira
-**20:00** - Drinks & Dinner by Celfocus.
+**18:00** - Intro and Welcome by the OWASP Porto chapter  \
+**18:15** - Lightning Recap: Highlights from BSides Lisbon 2024 by Celfocus Appsec Team, hosted by Pedro Tarrinho \
+**19:00** - Do not Live in the Shadows (APIs) by Teresa Pereira \
+**20:00** - Drinks & Dinner by Celfocus.\
 
 -------------------------------------------------------------------------------------------------------
 
