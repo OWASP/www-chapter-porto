@@ -157,7 +157,7 @@ UPTEC Baixa (Downtown Porto), Praça do Coronel Pacheco 2, 4050-453 Porto.
 >**Bio**
 >I’m currently working as a Cyber Threat Hunter at Siemens Energy. Before this, I worked as a Pentester at KPMG Portugal for nearly three years. My journey into API Security began in 2022, and by 2023, I was speaking at apidays Paris. In 2024, I was a speaker at apidays London and apidays Paris.
 >
->LinkedIn: https://www.linkedin.com/in/maria-teresa-pereira/
+>LinkedIn: [https://www.linkedin.com/in/maria-teresa-pereira/](https://www.linkedin.com/in/maria-teresa-pereira/)
 
 ### Meetup Photos
 
