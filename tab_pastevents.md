@@ -161,8 +161,8 @@ UPTEC Baixa (Downtown Porto), Praça do Coronel Pacheco 2, 4050-453 Porto.
 
 ### Meetup Photos
 
-![#4 A New Hope](assets/images/meetup_04/4img_01.png)
-![#4 A New Hope](assets/images/meetup_04/4img_02.png)
-![#4 A New Hope](assets/images/meetup_04/4img_03.png)
-![#4 A New Hope](assets/images/meetup_04/4img_04.png)
-![#4 A New Hope](assets/images/meetup_04/4img_05.png)
+![#4 A New Hope](assets/images/meetup_04/4img_01.jpeg)
+![#4 A New Hope](assets/images/meetup_04/4img_02.jpeg)
+![#4 A New Hope](assets/images/meetup_04/4img_03.jpeg)
+![#4 A New Hope](assets/images/meetup_04/4img_04.jpeg)
+![#4 A New Hope](assets/images/meetup_04/4img_05.jpeg)
