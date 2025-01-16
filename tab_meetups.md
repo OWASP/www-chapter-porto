@@ -9,11 +9,12 @@ tags: porto
 # OWASP Porto Chapter Meetup 2024
 
 ## Next event: 
-
-January 15th, 2025. See it on [meetup.com](https://www.meetup.com/owasp-porto/events/305008325).
+We are working towards our next event on **April 9th, 2025**. Stay tunned!
 
 
 ## Previous events:
+
+January 15th, 2025. See it on [meetup.com](https://www.meetup.com/owasp-porto/events/305008325).
 
 November 6th, 2024. See it on [meetup.com](https://www.meetup.com/owasp-porto/events/304158994/?utm_medium=referral&utm_campaign=announceModal_savedevents_share_modal&utm_source=link).
 

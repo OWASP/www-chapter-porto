@@ -8,15 +8,7 @@ tags: porto
 ---
 
 
-## #1 Kickoff: March 6th, 2024 @Boost IT
-
-### Location
-[BoostIT](https://maps.app.goo.gl/6PekaYYszr7dUgyq6)
-
-### Videos
-[The Security of Large Language Models by Nuno Pereira](https://youtu.be/hZcDXGJviFQ)
-
-[SBOM, SBOM, you’re an SBOM by Diogo Sousa](https://youtu.be/ApmWkGwd2Mw)
+## #1 Kickoff: March 6th, 2024 @ Boost IT
 
 ### Agenda:
  **18:00** - Intro and Welcome by the OWASP Porto chapter leadership \
@@ -48,7 +40,12 @@ tags: porto
 > #### By Diogo Sousa \[[LinkedIn](https://www.linkedin.com/in/0xdsousa/)\]
 > An opinionated individual with an interest in cryptography and its intersection with secure software development.
 
-### Photos from the meetup
+### Talk Videos
+[The Security of Large Language Models by Nuno Pereira](https://youtu.be/hZcDXGJviFQ)
+
+[SBOM, SBOM, you’re an SBOM by Diogo Sousa](https://youtu.be/ApmWkGwd2Mw)
+
+### Meetup Photos
 
 ![#1 Kickoff](assets/images/meetup_01/img1.jpeg)
 ![#1 Kickoff](assets/images/meetup_01/img2.jpg)
@@ -57,9 +54,6 @@ tags: porto
 -----------------------------------------------------------
 
 ## #2 Tango: May 29th, 2024 @FinTrU
-
-### Location
-[FinTrU](https://maps.app.goo.gl/uRqEQ6ZuZdSL4YHbA)
 
 ### Agenda:
  **18:00** - Intro and Welcome by the OWASP Porto chapter leadership \
@@ -82,7 +76,7 @@ tags: porto
 > #### By Joseph Hejderup \[[LinkedIn](https://www.linkedin.com/in/josephhejderup/)\]
 > Part-time developer, part-time PhD student, and full-time enthusiast in developing and researching techniques that make package management systems more intelligent and resilient against supply chain problems! Joseph Hejderup (Researcher/Software Engineer at Endor Labs & PhD student at Delft University of Technology) is applying program analysis techniques to understand better how we use third-party components and what risks third-party components entail from a security and maintenance perspective.
 
-### Photos from the meetup
+### Meetup Photos
 
 ![#2 Tango](assets/images/meetup_02/img_01.png)
 ![#2 Tango](assets/images/meetup_02/img_02.png)
@@ -90,7 +84,7 @@ tags: porto
 ![#2 Tango](assets/images/meetup_02/img_04.png)
 ![#2 Tango](assets/images/meetup_02/img_05.png)
 
-## #3 Is a Strike @ UPTEC Baixa
+## #3 Is a Strike: November 6th, 2024 @ UPTEC Baixa
 
 ### Location
 UPTEC Baixa (Downtown Porto), Praça do Coronel Pacheco 2, 4050-453 Porto.
@@ -123,7 +117,8 @@ UPTEC Baixa (Downtown Porto), Praça do Coronel Pacheco 2, 4050-453 Porto.
 >
 > Linkedin: [https://www.linkedin.com/in/pintoantonio](https://www.linkedin.com/in/pintoantonio)
 
-### Photos from the meetup
+### Meetup Photos
+
 ![#3 Is a Strike ](assets/images/meetup_03/img_01.png)
 ![#3 Is a Strike ](assets/images/meetup_03/img_02.png)
 ![#3 Is a Strike ](assets/images/meetup_03/img_03.png)
@@ -131,3 +126,43 @@ UPTEC Baixa (Downtown Porto), Praça do Coronel Pacheco 2, 4050-453 Porto.
 
 -----------------------------------------------------------
 
+## #4 A New Hope: January 15th, 2025 @ Celfocus Porto.
+
+### Agenda
+**18:00** - Intro and Welcome by the OWASP Porto chapter leadership
+**18:15** - Lightning Recap: Highlights from BSides Lisbon 2024 by Celfocus Appsec Team, hosted by Pedro Tarrinho
+**19:00** - Do not Live in the Shadows (APIs) by Teresa Pereira
+**20:00** - Drinks & Dinner by Celfocus.
+
+-------------------------------------------------------------------------------------------------------
+
+### Talks
+
+> ### Lightning Recap: Highlights from BSides Lisbon 2024
+> **Host: Pedro Tarrinho; Speakers: Mariana Bento, José Neves, Ruben Silva, Samuel Azriel, Diogo Gomes**
+>
+>*In this rapid-fire session, dive into key insights and breakthroughs from BSides Lisbon 2024. Hosted by Pedro Tarrinho, this panel will bring key topics and discussions from one of Portugal's major security conferences. Join the Celfocus AppSec team as they deliver presentations highlighting innovative strategies, emerging threats, and practical takeaways that resonated throughout the conference. Whether you missed the event or want a condensed recap, join us in this session to catch up on the latest developments from BSides Lisbon, where we will go over the following selection of talks*:
+>
+>- AI will take our job + GenAI Cybercrime Armageddon by [Mariana Bento](https://www.linkedin.com/in/marianabentoo/) and [José Neves](https://www.linkedin.com/in/jos%C3%A9-neves-b938581bb/).
+>- Weaponized Ads - Malvertising by [Ruben Silva](https://www.linkedin.com/in/ruben-silva85/)
+>- Enhancing Secrets Management by [Samuel Azriel](https://www.linkedin.com/in/azrsamuel/)
+>- Advanced Android Detection Evasion Tactics by [Diogo Gomes](https://www.linkedin.com/in/diogo-correia-gomes/)
+
+> ### Do not Live in the Shadows (APIs)
+> **Speaker: Teresa Pereira**
+>
+>Shadow APIs — undocumented, unmanaged, or hidden APIs within an organization’s ecosystem — pose a significant risk to security, compliance, and operational resilience. These APIs often emerge due to rapid development cycles, decentralized practices, or legacy systems, creating critical blind spots for development and security teams.
+>This talk explores the concept of Shadow APIs, starting with a clear definition and their origins, and examines the multifaceted risks they introduce to software development. Through real-world examples, we will highlight the potential consequences of ignoring these “hidden doors” and discuss strategies for their identification, management, and mitigation. By the end of this session, you will gain actionable insights and strategies to reduce the risks posed by Shadow APIs and build more resilient, secure, and compliant systems.
+>
+>**Bio**
+>I’m currently working as a Cyber Threat Hunter at Siemens Energy. Before this, I worked as a Pentester at KPMG Portugal for nearly three years. My journey into API Security began in 2022, and by 2023, I was speaking at apidays Paris. In 2024, I was a speaker at apidays London and apidays Paris.
+>
+>LinkedIn: https://www.linkedin.com/in/maria-teresa-pereira/
+
+### Meetup Photos
+
+![#4 A New Hope](assets/images/meetup_04/4img_01.png)
+![#4 A New Hope](assets/images/meetup_04/4img_02.png)
+![#4 A New Hope](assets/images/meetup_04/4img_03.png)
+![#4 A New Hope](assets/images/meetup_04/4img_04.png)
+![#4 A New Hope](assets/images/meetup_04/4img_05.png)

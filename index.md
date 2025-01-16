@@ -27,7 +27,7 @@ Use the [Social Links](#social-links) on the right to follow us to stay up to da
 
 ## Next event:
 
-**January 15th, 2025**. See it on [meetup.com](https://www.meetup.com/owasp-porto/events/305008325).
+We are working towards our next event on **April 9th, 2025**. Stay tunned!
 
 ## Participation
 
@@ -45,7 +45,7 @@ Chapters are led by local leaders in accordance with the [Chapters Policy](/www-
 Everyone is welcome and encouraged to participate in our [Projects](/projects/), [Local Chapters](/chapters/), [Events](/events/), [Online Groups](https://groups.google.com/a/owasp.com/){:target='_blank'}, and [Community Slack Channel](https://owasp.slack.com/){:target='_blank'}. We especially encourage diversity in all our initiatives. OWASP is a fantastic place to learn about application security, to network, and even to build your reputation as an expert. We also encourage you to be [become a member](/membership/) or consider a [donation](/donate/) to support our ongoing work.
 
 
-## Last event:
+## Previous event:
 
-November 6th, 2024. See it on [meetup.com](https://www.meetup.com/owasp-porto/events/304158994/?utm_medium=referral&utm_campaign=announceModal_savedevents_share_modal&utm_source=link).
+**January 15th, 2025**. See it on [meetup.com](https://www.meetup.com/owasp-porto/events/305008325).
 
