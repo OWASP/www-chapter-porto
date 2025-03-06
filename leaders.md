@@ -5,4 +5,4 @@
 
 ### Volunteers
 
-* [Clarisse Carvalho]
+* Clarisse Carvalho
