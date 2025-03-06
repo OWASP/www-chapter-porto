@@ -27,8 +27,7 @@ Use the [Social Links](#social-links) on the right to follow us to stay up to da
 
 ## Next event:
 
-Next Event: **April 15th, 2025**. See it on [meetup.com](https://www.meetup.com/owasp-porto/events/306568932/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link
-).
+Next Event: **April 15th, 2025**. See it on [meetup.com](https://www.meetup.com/owasp-porto/events/306568932).
 
 ## Participation
 
