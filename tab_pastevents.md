@@ -166,3 +166,53 @@ UPTEC Baixa (Downtown Porto), Praça do Coronel Pacheco 2, 4050-453 Porto.
 ![#4 A New Hope](assets/images/meetup_04/4img_03.jpeg)
 ![#4 A New Hope](assets/images/meetup_04/4img_04.jpeg)
 ![#4 A New Hope](assets/images/meetup_04/4img_05.jpeg)
+
+-----------------------------------------------------------
+
+## #5 Jupiter: April 15th, 2025 @ Critical Techworks Porto.
+
+### Agenda
+**18:00** - Intro and Welcome by the OWASP Porto chapter leadership
+**18:15** - Hacking Embedded Devices - From Black Box to UID 0 by Zezadas and David Silva
+**19:00** - Lessons Learned and How Not to Choose Your Next Drive by Paulo Silva
+**20:00** - Drinks & Dinner by Critical Techworks.
+
+-------------------------------------------------------------------------------------------------------
+
+### Talks
+
+> ### Hacking Embedded Devices - From Black Box to UID 0
+> **Speaker: Zezadas and David Silva**
+>
+> Prepare to bend the rules of time and uncover the secrets of an embedded device in a way that even the most adventurous time traveler wouldn’t even dream to explore. In this enlightening presentation, Zezadas, a security researcher, leads you through the remarkable process of gaining root access in an unsuspecting video converter embedded device. Witness the fusion of expertise and creative problem-solving as Zezadas shares a step-by-step account of their exploits. Discover firsthand that hacking embedded devices, often perceived as daunting, can be accessible, enjoyable, and, most importantly, a journey through time. Whether you’re a security aficionado or simply curious about the intersection of technology and time-travel, this talk promises to entertain, educate, and inspire.
+>
+> **Bios**
+> **Zezadas** is a dedicated security researcher with a strong passion for exploring the intricacies of hardware hacking. With a wide-ranging skill set and an unyielding curiosity. As a committed advocate for cybersecurity education, Zezadas frequently shares knowledge and experiences at renowned cybersecurity conferences worldwide. These include events such as BsidesLisbon, BsidesBangalore, BerlinSides, AlligatorCon, WarCon, 0xOPOSEC, and many others.
+>
+>Linkedin: [https://www.linkedin.com/in/zezadas/](https://www.linkedin.com/in/zezadas/)
+
+> **David Silva** is a Software Engineer with professional experience in full-stack software development, project management, and cloud deployments in Kubernetes, AWS, Google Cloud, and Azure.
+> His professional experience, combined with a strong interest in most technology-related fields, including cyber security, is reflected in his problem-solving skills and interest in understanding how things work and how one can give new uses to existing technology.
+>
+> Linkedin: [https://www.linkedin.com/in/dmpasilva/](https://www.linkedin.com/in/dmpasilva/)
+
+
+> ### Lessons Learned and How Not to Choose Your Next Drive
+> **Speaker: Paulo Silva** 
+>
+>Don't worry, we can (also) hear your thoughts—"No, the car manufacturers' security talk again. No!" But fear not, this time we're shifting gears. Instead of focusing on cars, we'll use lessons from our research to highlight security pitfalls that plague organizations across industries. From cloud bucket misconfigurations to BOLA bugs giving users more power than a valet with your Ferrari keys, we'll share real-world lessons learned, laugh at the chaos, and discuss how to avoid these traps. Anyway, those fancy PoCs may strike again: the best way to prove impact and get rid of annoying web flaws. Buckle up—it’s a wild ride!
+
+> **Bio**
+> **Paulo** is a security practitioner with a solid background in software development, who has spent the last decade focused on identifying critical vulnerabilities and breaking software. He is a long-time OWASP volunteer and co-leader of the OWASP API Security Project, where he advocates for secure API practices and contributes significantly to mitigating security risks in the API landscape.
+>
+> Linkedin: [https://www.linkedin.com/in/devpauloasilva/](https://www.linkedin.com/in/devpauloasilva/)
+
+### Meetup Photos
+
+![#5 Jupiter](assets/images/meetup_05/img_01_small.jpeg)
+![#5 Jupiter](assets/images/meetup_05/img_02_small.jpeg)
+![#5 Jupiter](assets/images/meetup_05/img_03_small.jpeg)
+![#5 Jupiter](assets/images/meetup_05/img_04_small.jpeg)
+![#5 Jupiter](assets/images/meetup_05/img_05_small.jpeg)
+![#5 Jupiter](assets/images/meetup_05/img_06_small.jpeg)
+![#5 Jupiter](assets/images/meetup_05/img_07_small.jpeg)
