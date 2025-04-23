@@ -172,10 +172,10 @@ UPTEC Baixa (Downtown Porto), Praça do Coronel Pacheco 2, 4050-453 Porto.
 ## #5 Jupiter: April 15th, 2025 @ Critical Techworks Porto.
 
 ### Agenda
-**18:00** - Intro and Welcome by the OWASP Porto chapter leadership
-**18:15** - Hacking Embedded Devices - From Black Box to UID 0 by Zezadas and David Silva
-**19:00** - Lessons Learned and How Not to Choose Your Next Drive by Paulo Silva
-**20:00** - Drinks & Dinner by Critical Techworks.
+**18:00** - Intro and Welcome by the OWASP Porto chapter leadership \
+**18:15** - Hacking Embedded Devices - From Black Box to UID 0 by Zezadas and David Silva \
+**19:00** - Lessons Learned and How Not to Choose Your Next Drive by Paulo Silva \
+**20:00** - Drinks & Dinner by Critical Techworks. \
 
 -------------------------------------------------------------------------------------------------------
 
