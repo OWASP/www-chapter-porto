@@ -47,5 +47,5 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects/),
 
 ## Previous event:
 
-**January 15th, 2025**. See it on [meetup.com](https://www.meetup.com/owasp-porto/events/305008325).
+**April 15th, 2025**. See it on [meetup.com](https://www.meetup.com/owasp-porto/events/306568932).
 
