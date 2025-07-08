@@ -6,6 +6,9 @@ tab: true
 order: 2
 tags: porto
 ---
+# Events in 2024
+
+See them **[here](past_meetups_2024)**
 
 # Events in 2025
 
@@ -155,7 +158,3 @@ We are excited to bring you another
 ![#6 The Farmer](assets/images/meetup_06/img_small_010.jpeg)
 ![#6 The Farmer](assets/images/meetup_06/img_small_011.jpeg)
 ![#6 The Farmer](assets/images/meetup_06/img_small_012.jpeg)
-
-# Events in 2024
-
-**See them [here](past_meetups_2024)**
