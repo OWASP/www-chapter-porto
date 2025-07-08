@@ -1,12 +1,11 @@
 ---
 title: PastEvents2024
 displaytext: Events in 2024
-layout:  null
+layout: default
 tab: false
 order: 0
 tags: porto
 ---
-
 
 ## #1 Kickoff: March 6th, 2024 @ Boost IT
 
@@ -83,6 +82,8 @@ tags: porto
 ![#2 Tango](assets/images/meetup_02/img_03.png)
 ![#2 Tango](assets/images/meetup_02/img_04.png)
 ![#2 Tango](assets/images/meetup_02/img_05.png)
+
+-----------------------------------------------------------
 
 ## #3 Is a Strike: November 6th, 2024 @ UPTEC Baixa
 
