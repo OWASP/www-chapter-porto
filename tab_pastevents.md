@@ -161,4 +161,4 @@ We are excited to bring you another
 
 # Events in 2024
 
-**See them [here](past_meetups_2024)**
+**See them [here](assets/past_meetups_2024.md)**
