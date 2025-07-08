@@ -17,7 +17,7 @@ postal-code: 4150
 ## Welcome to the OWASP Porto chapter
 Welcome to the new OWASP Porto chapter. 
 
-The objective of this chapter is to promote application security in Porto, through the engagement of the local community, meetings and events organization, and project participation.
+The objective of this chapter is to promote application security in the Porto region, through the engagement of the local community, meetings and events organization, and project participation.
 
 [Join us](https://owasp.org/membership)!
 
@@ -38,12 +38,13 @@ Beginner or advanced, attack or defense, technical or not, submit your talk [her
 
 ### Sponsorship
 
-The Open Worldwide Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security.
-
 Chapters are led by local leaders in accordance with the [Chapters Policy](/www-policy/operational/chapters). Financial contributions should only be made online using the authorized online donation button.
 
-Everyone is welcome and encouraged to participate in our [Projects](/projects/), [Local Chapters](/chapters/), [Events](/events/), [Online Groups](https://groups.google.com/a/owasp.com/){:target='_blank'}, and [Community Slack Channel](https://owasp.slack.com/){:target='_blank'}. We especially encourage diversity in all our initiatives. OWASP is a fantastic place to learn about application security, to network, and even to build your reputation as an expert. We also encourage you to be [become a member](/membership/) or consider a [donation](/donate/) to support our ongoing work.
+### Join Us!
 
+The Open Worldwide Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security.
+
+Everyone is welcome and encouraged to participate in our [Projects](/projects/), [Local Chapters](/chapters/), [Events](/events/), [Online Groups](https://groups.google.com/a/owasp.com/){:target='_blank'}, and [Community Slack Channel](https://owasp.slack.com/){:target='_blank'}. We especially encourage diversity in all our initiatives. OWASP is a fantastic place to learn about application security, to network, and even to build your reputation as an expert. We also encourage you to be [become a member](/membership/) or consider a [donation](/donate/) to support our ongoing work.
 
 ## Previous event:
 
