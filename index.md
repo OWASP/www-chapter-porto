@@ -27,7 +27,7 @@ Use the [Social Links](#social-links) on the right to follow us to stay up to da
 
 ## Next event:
 
-**July 2nd, 2025. See it on [meetup.com](https://www.meetup.com/owasp-porto/events/308237455/)**
+**September/October 2025. Stay tunned!**
 
 ## Participation
 
@@ -47,5 +47,5 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects/),
 
 ## Previous event:
 
-**April 15th, 2025**. See it on [meetup.com](https://www.meetup.com/owasp-porto/events/306568932).
+**July 2nd, 2025. See it on [meetup.com](https://www.meetup.com/owasp-porto/events/308237455/)**
 
