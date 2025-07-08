@@ -7,6 +7,8 @@ order: 2
 tags: porto
 ---
 
+# Events in 2025
+
 ## #4 A New Hope: January 15th, 2025 @ Celfocus Porto.
 
 ### Agenda
