@@ -1,12 +1,3 @@
----
----
-title: PastEvents2024
-displaytext: Events in 2024
-layout:  null
-tab: false
-order: 2
-tags: porto
----
 
 
 ## #1 Kickoff: March 6th, 2024 @ Boost IT
