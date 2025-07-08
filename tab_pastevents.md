@@ -15,7 +15,6 @@ tags: porto
 **19:00** - Do not Live in the Shadows (APIs) by Teresa Pereira \
 **20:00** - Drinks & Dinner by Celfocus.\
 
--------------------------------------------------------------------------------------------------------
 
 ### Talks
 
@@ -58,7 +57,6 @@ tags: porto
 **19:00** - Lessons Learned and How Not to Choose Your Next Drive by Paulo Silva \
 **20:00** - Drinks & Dinner by Critical Techworks. \
 
--------------------------------------------------------------------------------------------------------
 
 ### Talks
 
@@ -111,7 +109,6 @@ We are excited to bring you another
 **19:00** - Jedi^WGenAI Mind Tricks - Are these the secure chatbots you’re looking for? by Bruno Morisson \
 **19:45** - Drinks & Dinner by OERN. \
 
--------------------------------------------------------------------------------------------------------
 
 ### Talks
 
@@ -145,17 +142,17 @@ We are excited to bring you another
 
 ### Meetup Photos
 
-![#6 The Farmer](assets/images/meetup_06/img_01.jpeg)
-![#6 The Farmer](assets/images/meetup_06/img_02.jpeg)
-![#6 The Farmer](assets/images/meetup_06/img_03.jpeg)
-![#6 The Farmer](assets/images/meetup_06/img_04.jpeg)
-![#6 The Farmer](assets/images/meetup_06/img_05.jpeg)
-![#6 The Farmer](assets/images/meetup_06/img_06.jpeg)
-![#6 The Farmer](assets/images/meetup_06/img_07.jpeg)
-![#6 The Farmer](assets/images/meetup_06/img_08.jpeg)
-![#6 The Farmer](assets/images/meetup_06/img_10.jpeg)
-![#6 The Farmer](assets/images/meetup_06/img_11.jpeg)
-![#6 The Farmer](assets/images/meetup_06/img_12.jpeg)
+![#6 The Farmer](assets/images/meetup_06/img_small_01.jpeg)
+![#6 The Farmer](assets/images/meetup_06/img_small_02.jpeg)
+![#6 The Farmer](assets/images/meetup_06/img_small_03.jpeg)
+![#6 The Farmer](assets/images/meetup_06/img_small_04.jpeg)
+![#6 The Farmer](assets/images/meetup_06/img_small_05.jpeg)
+![#6 The Farmer](assets/images/meetup_06/img_small_06.jpeg)
+![#6 The Farmer](assets/images/meetup_06/img_small_07.jpeg)
+![#6 The Farmer](assets/images/meetup_06/img_small_08.jpeg)
+![#6 The Farmer](assets/images/meetup_06/img_small_010.jpeg)
+![#6 The Farmer](assets/images/meetup_06/img_small_011.jpeg)
+![#6 The Farmer](assets/images/meetup_06/img_small_012.jpeg)
 
 # Events in 2024
 
