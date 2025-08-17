@@ -18,7 +18,8 @@ See them **[here](past_meetups_2024)**
 **18:00** - Intro and Welcome by the OWASP Porto chapter  \
 **18:15** - Lightning Recap: Highlights from BSides Lisbon 2024 by Celfocus Appsec Team, hosted by Pedro Tarrinho \
 **19:00** - Do not Live in the Shadows (APIs) by Teresa Pereira \
-**20:00** - Drinks & Dinner by Celfocus.\
+**20:00** - Drinks & Dinner by Celfocus.
+
 
 
 ### Talks
@@ -60,7 +61,8 @@ See them **[here](past_meetups_2024)**
 **18:00** - Intro and Welcome by the OWASP Porto chapter leadership \
 **18:15** - Hacking Embedded Devices - From Black Box to UID 0 by Zezadas and David Silva \
 **19:00** - Lessons Learned and How Not to Choose Your Next Drive by Paulo Silva \
-**20:00** - Drinks & Dinner by Critical Techworks. \
+**20:00** - Drinks & Dinner by Critical Techworks.
+
 
 
 ### Talks
@@ -103,16 +105,15 @@ See them **[here](past_meetups_2024)**
 
 -------------------------------------------------------------------------------------------------------
 
-## #5 The Farmer: July 2nd, 2025 @ Ordem dos Engenheiros - Região Norte (OERN).
-
-We are excited to bring you another
+## #6 The Farmer: July 2nd, 2025 @ Ordem dos Engenheiros - Região Norte (OERN).
 
 ### Agenda
 
 **18:00** - Intro and Welcome by the OWASP Porto chapter leadership \
 **18:15** - Applying Threat Modelling in modern development environments by Gonçalo Matias \
 **19:00** - Jedi^WGenAI Mind Tricks - Are these the secure chatbots you’re looking for? by Bruno Morisson \
-**19:45** - Drinks & Dinner by OERN. \
+**19:45** - Drinks & Dinner by OERN.
+
 
 
 ### Talks
