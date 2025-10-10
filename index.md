@@ -28,7 +28,7 @@ Use the [Social Links](#social-links) on the right to follow us to stay up to da
 
 ## Next event:
 
-**TBD October 2025. Stay tuned on [meetup.com](https://www.meetup.com/owasp-porto/)**
+**28th October 2025. Stay tuned on [meetup.com](https://www.meetup.com/owasp-porto/events/311443120/)**
 
 ## Participation:
 
