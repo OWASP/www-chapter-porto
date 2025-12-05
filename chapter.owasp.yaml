@@ -1,0 +1,36 @@
+community:
+  - name: chapter-porto
+    platform: slack
+    url: https://owasp.slack.com/archives/C06QKEVMPCY
+leaders:
+  - name: Nuno Pereira
+    email: nuno.pereira@owasp.org
+    github: nampereira
+  - name: Wilberto Filho
+    email: wilberto.filho@owasp.org
+  - name: Pedro Fortuna
+    email: pedro.fortuna@owasp.org
+    github: pfortuna
+location:
+  country: Portugal
+  country_code: PT
+  region: Porto
+  city: Paranhos
+  postal_code: '4150'
+  latitude: 41.1778405
+  longitude: -8.6559578
+meetup_group: owasp-porto-chapter
+name: OWASP Porto
+repositories:
+  - name: www-chapter-porto
+    url: https://github.com/OWASP/www-chapter-porto
+    description: OWASP Foundation Web Repository
+tags:
+  - chapter-porto
+  - owasp-oporto
+  - owasp-opo
+  - chapter-portugal
+  - porto
+  - oporto
+  - portugal
+website: https://owasp.org/www-chapter-porto
