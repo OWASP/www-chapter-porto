@@ -10,7 +10,7 @@ tags: porto
 
 ## Next event: 
 
-**TBD October 2025. Stay tuned on [meetup.com](https://www.meetup.com/owasp-porto/)**
+**January 14th, 2026. Stay tuned on [meetup.com](https://www.meetup.com/owasp-porto/)**
 
 ## Previous events:
 
