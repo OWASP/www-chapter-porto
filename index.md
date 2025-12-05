@@ -28,7 +28,7 @@ Use the [Social Links](#social-links) on the right to follow us to stay up to da
 
 ## Next event:
 
-**January 14th, 2026. Stay tuned on [meetup.com](https://www.meetup.com/owasp-porto/events/312295808)**
+**January 14th, 2026. Stay tuned! **
 
 ## Participation:
 
