@@ -10,11 +10,13 @@ tags: porto
 
 ## Next event: 
 
-**28th October 2025. Stay tuned on [meetup.com](https://www.meetup.com/owasp-porto/events/311443120/)**
+**January 14th, 2026. Stay tuned on [meetup.com](https://www.meetup.com/owasp-porto/)**
 
 ## Previous events:
 
-September 3rd 2025. See it on [meetup.com](https://www.meetup.com/owasp-porto/events/310516671/)
+October 28th, 2025. See it on [meetup.com](https://www.meetup.com/owasp-porto/events/311443120)
+
+September 3rd, 2025. See it on [meetup.com](https://www.meetup.com/owasp-porto/events/310516671/)
 
 July 2nd, 2025. See it on [meetup.com](https://www.meetup.com/owasp-porto/events/308237455/)
 

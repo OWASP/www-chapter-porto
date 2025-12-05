@@ -28,7 +28,7 @@ Use the [Social Links](#social-links) on the right to follow us to stay up to da
 
 ## Next event:
 
-**28th October 2025. Stay tuned on [meetup.com](https://www.meetup.com/owasp-porto/events/311443120/)**
+**January 14th, 2026. Stay tuned! **
 
 ## Participation:
 
@@ -57,5 +57,5 @@ a [donation](/donate/) to support our ongoing work.
 
 ## Previous event:
 
-**September 3rd, 2025. See it on [meetup.com](https://www.meetup.com/owasp-porto/events/310516671/)**
+**October 28th, 2025. See it on [meetup.com](https://www.meetup.com/owasp-porto/events/311443120)**
 
