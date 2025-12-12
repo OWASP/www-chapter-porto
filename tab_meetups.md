@@ -10,7 +10,7 @@ tags: porto
 
 ## Next event: 
 
-**January 14th, 2026. Stay tuned on [meetup.com](https://www.meetup.com/owasp-porto/)**
+**#9 - The Wall, January 14th, 2026 [meetup.com](https://www.meetup.com/owasp-porto/events/312337721/)**
 
 ## Previous events:
 
