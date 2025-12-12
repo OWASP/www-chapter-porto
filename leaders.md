@@ -7,4 +7,4 @@
 
 * Clarisse Carvalho
 * [Nikhil Shirsath](https://pt.linkedin.com/in/nikhilshirsath)
-* [Tadeu Freitas] (https://www.linkedin.com/in/tadeu-freitas-inesctec-cracs/)
+* [Tadeu Freitas](https://www.linkedin.com/in/tadeu-freitas-inesctec-cracs/)
