@@ -17,8 +17,6 @@ tags: porto
 **19:00** - Do not Live in the Shadows (APIs) by Teresa Pereira \
 **20:00** - Drinks & Dinner by Celfocus.
 
-
-
 ### Talks
 
 > ### Lightning Recap: Highlights from BSides Lisbon 2024
@@ -300,3 +298,43 @@ Bash $RANDOM variable. By transforming what was once a theoretical attack into a
 ![#8 524554524F4C4F5645](assets/images/meetup_08/img_small_04.jpeg)
 ![#8 524554524F4C4F5645](assets/images/meetup_08/img_small_05.jpeg)
 ![#8 524554524F4C4F5645](assets/images/meetup_08/img_small_06.jpeg)
+
+
+-------------------------------------------------------------------------------------------------------
+
+## #9 The Wall : January 14th, 2026 at 18:00 @ Kuehne + Nagel.
+
+### Agenda
+
+**18:00** - Intro and Welcome by the OWASP Porto chapter leadership \
+**18:15** - Too Many Repos, Too Little Time: How We Learned to Security Test Smarter by Arnau Estebanell Castellví \
+**19:00** - Baseband: The Final (?) Frontier by Pedro Ribeiro \
+**19:45** - Dinner and Drinks sponsored by Kuehne + Nagel
+
+### Talks
+
+> ### Too Many Repos, Too Little Time: How We Learned to Security Test Smarter
+> **Speaker: Arnau Estebanell Castellví**
+>
+>Over four years at my current company, I witnessed our security team grow from four people to nearly thirty — and with that growth came the challenge (and opportunity) to build an Offensive Security Program and SSDLC essentially from scratch. This talk tells the real story behind that journey: the messy iterations, the fast failures, and the cultural battles that mattered far more than any tool we deployed. I’ll share how we moved from our very first customer‑facing pentest report to a full Offensive Security Program powered by structured pentesting and a public bug bounty. Along the way, I’ll dive into the mistakes we made — like overwhelming engineering teams with mountains of vulnerabilities — and how these failures reshaped our approach to prioritization, communication, and partnership. The talk is aimed at early‑career AppSec engineers and anyone trying to bootstrap an AppSec function. Expect practical insights grounded in real experience, wrapped in stories of what actually worked in a fast‑growing engineering organization. To close, I’ll introduce two open‑source tools born directly from our struggles: pentest‑scheduler and git‑repo‑downloader. Built to answer a simple but painful question — “What should we pentest next?” — these tools help teams prioritize repositories based on real code changes and ship safer software, sooner. 
+>
+> **Bio: **
+> **Arnau Estebanell Castellví** is a Lead Security Engineer specializing in ethical hacking, application security, and DevSecOps. With experience leading offensive security work and helping engineering teams build secure software, he brings a practical, people‑focused approach to modern AppSec. He holds several certifications including OSCP, OSWE, and CCSK.
+>
+> Linkedin: [https://www.linkedin.com/in/arnauec/](https://www.linkedin.com/in/arnauec/)
+
+> ### Baseband: The Final (?) Frontier
+> **Speaker: Pedro Ribeiro**
+>
+> Basebands, basebands, basebands. You heard the term before. But what is a baseband really? They can also be called "modems" - they module and demodulate radio signals into / from data packets, that get processed by your smartphone (smart car, smart meter, smart ); they allow your device to communicate with the world.
+>
+>Recently there has been a surge in baseband interest in cyber security, but it is still hard to find decent public information on this deep technical subject.
+>
+>Join us for a talk on their inner workings, how vulnerabilities can be found, how exploits for them work and much more!
+>
+> **Bio: **
+> **Pedro Ribeiro** is the Founder & Director of Research at Agile Information Security, a UK based boutique cyber security firm, specialising in highly technical subjects such as vulnerability research, reverse engineering, advanced penetration testing, red teaming and incident response. He has over 7 years of working experience with basebands and regularly gives training courses on attacking them all over the world.
+>
+> Linkedin: [https://www.linkedin.com/in/pedro-ribeiro-36a63324/](https://www.linkedin.com/in/pedro-ribeiro-36a63324/)
+
+-------------------------------------------------------------------------------------------------------

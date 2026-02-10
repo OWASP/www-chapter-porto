@@ -28,7 +28,7 @@ Use the [Social Links](#social-links) on the right to follow us to stay up to da
 
 ## Next event:
 
-**#9 - The Wall, January 14th, 2026 [meetup.com](https://www.meetup.com/owasp-porto/events/312337721/)**
+**#10 - Winter Sunset, March 11th, 2026 [meetup.com](https://www.meetup.com/owasp-porto/events/313001990)**
 
 ## Participation:
 
