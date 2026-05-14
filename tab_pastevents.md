@@ -96,4 +96,4 @@ See them **[here](past_meetups_2025)**
 > **João Marono** works at NOS's cybersecurity team as a DevSecOps, working on tools like SOAR, SIEM, CLM, Kubernetes, and a bit of cloud. By night, he does security research in open-source projects for the Future Sight Group. His areas of expertise are Kubernetes and web exploitation. This year, he has already achieved two medium CVEs in services such as Apache Superset and Flask AppBuilder, a popular Flask framework.
 >
 > Linkedin: [https://www.linkedin.com/in/joaomarono/](https://www.linkedin.com/in/joaomarono/)
--------------------------------------------------------------------------------------------------------
+
