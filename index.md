@@ -55,7 +55,6 @@ diversity in all our initiatives. OWASP is a fantastic place to learn about appl
 to build your reputation as an expert. We also encourage you to be [become a member](/membership/) or consider
 a [donation](/donate/) to support our ongoing work.
 
-## Previous event:
 
-**October 28th, 2025. See it on [meetup.com](https://www.meetup.com/owasp-porto/events/311443120)**
+
 
