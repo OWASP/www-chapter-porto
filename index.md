@@ -28,7 +28,7 @@ Use the [Social Links](#social-links) on the right to follow us to stay up to da
 
 ## Next event:
 
-**#11 Déjà vu, May 26, 2026. See it on [luma.com](https://luma.com/inxsfopo)**
+**Checkout our next event on [Luma](https://luma.com/owasp-porto)**
 
 ## Participation:
 
