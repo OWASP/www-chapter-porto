@@ -10,9 +10,11 @@ tags: porto
 
 ## Next event: 
 
-**#10 - Winter Sunset, March 11th, 2026 [meetup.com](https://www.meetup.com/owasp-porto/events/313001990/)**
+**#11 Déjà vu, May 26, 2026 [luma.com](https://luma.com/inxsfopo)**
 
 ## Previous events:
+
+March 11th, 2026. See it on [meetup.com](https://www.meetup.com/owasp-porto/events/313001990)
 
 January 14th, 2026. See it on [meetup.com](https://www.meetup.com/owasp-porto/events/312337721/)
 
