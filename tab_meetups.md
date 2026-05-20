@@ -12,6 +12,9 @@ tags: porto
 
 **Checkout our next event on [Luma](https://luma.com/owasp-porto)**
 
+**We are participating in the organization of [OWASP AppSec Days Portugal 2026](https://appsecdays.pt/)**.
+Hope to see you there in September!
+
 ## Previous events:
 
 March 11th, 2026. See it on [meetup.com](https://www.meetup.com/owasp-porto/events/313001990)
