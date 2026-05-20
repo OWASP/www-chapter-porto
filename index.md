@@ -30,8 +30,6 @@ Use the [Social Links](#social-links) on the right to follow us to stay up to da
 
 **Checkout our next event on [Luma](https://luma.com/owasp-porto)**
 
-## OWASP AppSec Days Portugal 2026:
-
 **We are participating in the organization of [OWASP AppSec Days Portugal 2026](https://appsecdays.pt/)**.
 Hope to see you there in September!
 
