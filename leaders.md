@@ -8,3 +8,8 @@
 * Clarisse Carvalho
 * [Nikhil Shirsath](https://pt.linkedin.com/in/nikhilshirsath)
 * [Tadeu Freitas](https://www.linkedin.com/in/tadeu-freitas-inesctec-cracs/)
+
+### OWASP AppSec Days Portugal 2026
+
+[OWASP AppSec Days Portugal 2026](https://appsecdays.pt/)
+

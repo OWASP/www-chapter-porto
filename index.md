@@ -32,7 +32,7 @@ Use the [Social Links](#social-links) on the right to follow us to stay up to da
 
 ## OWASP AppSec Days Portugal 2026:
 
-**We are participating in the organization of [OWASP AppSec Days Portugal 2026](https://appsecdays.pt/)**
+**We are participating in the organization of [OWASP AppSec Days Portugal 2026](https://appsecdays.pt/)**.
 Hope to see you there in September!
 
 ## Participation:
